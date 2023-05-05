@@ -1,0 +1,15 @@
+.nav1{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+navbtn2:hover{
+color: black;
+}
+
+
+@media screen and (max-width: 441px) {
+    .nav1 {
+     display: block;
+    }
+  }

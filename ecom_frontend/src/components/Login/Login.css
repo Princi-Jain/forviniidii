@@ -1,0 +1,14 @@
+.login1{
+    width: 100vw;
+    height: 100dvh;
+    background-color: skyblue; 
+    background-image: linear-gradient(blue, skyblue);
+    padding-top:100px;
+    }
+    .login2{
+        width: 500px;
+        height: 400px;
+        background-color: white;
+        text-align: center;
+        box-shadow: 5px 5px ;
+    }
